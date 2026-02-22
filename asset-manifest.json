@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mixnmatch-v2/static/css/main.5e3461f0.css",
+    "main.js": "/mixnmatch-v2/static/js/main.dff9558d.js",
+    "static/js/453.97b1214c.chunk.js": "/mixnmatch-v2/static/js/453.97b1214c.chunk.js",
+    "index.html": "/mixnmatch-v2/index.html",
+    "main.5e3461f0.css.map": "/mixnmatch-v2/static/css/main.5e3461f0.css.map",
+    "main.dff9558d.js.map": "/mixnmatch-v2/static/js/main.dff9558d.js.map",
+    "453.97b1214c.chunk.js.map": "/mixnmatch-v2/static/js/453.97b1214c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e3461f0.css",
+    "static/js/main.dff9558d.js"
+  ]
+}
